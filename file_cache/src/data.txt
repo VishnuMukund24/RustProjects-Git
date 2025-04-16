@@ -1,0 +1,4 @@
+username=teko
+language=rust
+editor=vim
+language=Rust
